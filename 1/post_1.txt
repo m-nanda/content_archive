@@ -1,0 +1,19 @@
+Oil processing involves a series of steps to extract usable petroleum products from crude oil.
+The first step is typically to seperate the different components of the crude oil through distilation. 
+The different components of the oil have different boiling points, so they can be separated based on their condensation temperatures.
+
+how is it in perspective data?
+
+Data from the internet is the crude oil. It has different types, it can be:
+tabular data from open source data, 
+text data such as article on websites, image, video such as videos on youtube
+voice recording, and etc. 
+Thoose all data need to apply appropriate treatment to get the benefit like the oil.
+
+
+data:
+- minyak per tahun: https://ourworldindata.org/grapher/oil-proved-reserves?time=2020&country=~OWID_WRL
+- perkiraan minyak: https://www.worldometers.info/oil/#oil-reserves
+- https://ourworldindata.org/grapher/oil-production-by-country
+- https://databoks.katadata.co.id/datapublish/2021/01/29/nilai-transaksi-e-commerce-mencapai-rp-2663-triliun-pada-2020
+- https://dataindonesia.id/Digital/detail/transaksi-ecommerce-ri-tak-capai-target-pada-2022
